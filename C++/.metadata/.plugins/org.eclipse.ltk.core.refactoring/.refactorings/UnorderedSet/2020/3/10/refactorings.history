@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Unordered_set/src/Unordered_set.cpp&apos; to &apos;UnorderedSet.cpp&apos;" description="Rename resource &apos;Unordered_set.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Unordered_set.cpp" name="UnorderedSet.cpp" stamp="1583390219901" updateReferences="true"/>
+</session>

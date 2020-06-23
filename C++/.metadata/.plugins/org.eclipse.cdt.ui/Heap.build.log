@@ -1,0 +1,15 @@
+14:36:38 **** Incremental Build of configuration Debug for project Heap ****
+make all 
+Building file: ../src/Heap.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Heap.d" -MT"src/Heap.o" -o "src/Heap.o" "../src/Heap.cpp"
+Finished building: ../src/Heap.cpp
+ 
+Building target: Heap
+Invoking: GCC C++ Linker
+g++  -o "Heap"  ./src/Heap.o   
+Finished building target: Heap
+ 
+
+14:36:39 Build Finished. 0 errors, 0 warnings. (took 774ms)
+

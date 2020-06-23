@@ -1,0 +1,15 @@
+22:17:45 **** Build of configuration Debug for project Dequeue ****
+make all 
+Building file: ../src/Dequeue.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Dequeue.d" -MT"src/Dequeue.o" -o "src/Dequeue.o" "../src/Dequeue.cpp"
+Finished building: ../src/Dequeue.cpp
+ 
+Building target: Dequeue
+Invoking: GCC C++ Linker
+g++  -o "Dequeue"  ./src/Dequeue.o   
+Finished building target: Dequeue
+ 
+
+22:17:46 Build Finished. 0 errors, 0 warnings. (took 991ms)
+

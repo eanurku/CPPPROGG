@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Dequeue&apos; to &apos;Deque&apos;" description="Rename resource &apos;Dequeue&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Dequeue" name="Deque" stamp="1583340664015" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Unordered_set&apos; to &apos;UnorderedSet&apos;" description="Rename resource &apos;Unordered_set&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Unordered_set" name="UnorderedSet" stamp="1583390235189" updateReferences="true"/>
+</session>
